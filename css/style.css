@@ -1,0 +1,38 @@
+*{
+    margin:0;padding: 0;
+}
+.logo{
+    min-height: 80px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.menu{
+    min-height: 80px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.slider{
+    min-height: 150px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.info{
+     min-height: 80px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.image{
+     min-height: 80px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.add{
+      min-height: 80px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.footer{
+      min-height: 80px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
